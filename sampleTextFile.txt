@@ -1,0 +1,2 @@
+I am trying to read this file's content using JavaScript.
+I got this as an interview question.
